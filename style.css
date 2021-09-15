@@ -31,7 +31,7 @@ h1 {
 
 .bg {
   height: calc(100vh);
-  background-image: linear-gradient( rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.57) ), url(img/bg2.jpg);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.57) ), url(img/background.jpg);
 }
 
 .contacts {
